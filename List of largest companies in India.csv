@@ -1,0 +1,72 @@
+Rank,Forbes 2000 rank,Name,Headquarters,Revenue(billions US$),Profit(billions US$),Assets(billions US$),Value(billions US$),Industry
+1,49,Reliance Industries Limited,Mumbai,108.8,8.4,210.5,233.1,Conglomerate
+2,55,State Bank of India,Mumbai,71.8,8.1,807.4,87.6,Banking
+3,65,HDFC Bank,Mumbai,49.3,7.7,483.2,133.6,Banking
+4,70,Life Insurance Corporation,New Delhi,98.0,4.9,561.4,73.6,Insurance
+5,142,ICICI Bank,Mumbai,28.5,5.3,283.5,95.3,Banking
+6,207,Oil and Natural Gas Corporation,New Delhi,77.5,5.1,80.6,41.9,Oil and gas
+7,259,Indian Oil Corporation,New Delhi,93.8,5.0,57.8,27.8,Oil and gas
+8,284,Tata Motors,Mumbai,52.9,3.8,44.4,43.8,Automotive
+9,293,Axis Bank,Mumbai,16.7,3.2,182.0,42.3,Banking
+10,372,NTPC Limited,New Delhi,21.2,2.4,54.7,42.5,Utilities
+11,398,Larsen & Toubro,Mumbai,26.7,1.6,40.7,56.9,Capital goods
+12,412,Tata Consultancy Services,Mumbai,29.1,5.5,17.6,166.5,Infotech
+13,440,Bank of Baroda,Vadodara,17.1,2.3,198.4,16.2,Banking
+14,442,Kotak Mahindra Bank,Mumbai,11.4,2.2,92.0,40.5,Banking
+15,472,Bharti Airtel,New Delhi,18.1,0.9,53.3,91.5,Telecommunication
+16,488,Coal India,Kolkata,17.2,3.9,28.5,34.8,Metals and mining
+17,525,Canara Bank,Bangalore,16.8,1.8,184.0,12.4,Banking
+18,533,Power Finance Corporation,New Delhi,11.1,2.4,124.6,18.5,Financials
+19,537,Bharat Petroleum,Mumbai,54.1,3.2,24.3,16.4,Oil and gas
+20,569,Infosys,Bangalore,18.6,3.2,16.5,71.9,Infotech
+21,571,Punjab National Bank,New Delhi,14.8,1.1,191.7,16.5,Banking
+22,575,Union Bank of India,Mumbai,14.3,1.7,168.1,12.7,Banking
+23,592,Bajaj Finserv,Pune,13.0,1.0,64.5,30.3,Financials
+24,593,Mahindra & Mahindra,Mumbai,16.8,1.4,28.3,37.5,Automotive
+25,645,JSW Steel Ltd,Mumbai,21.1,1.1,27.4,26.6,Iron and steel
+26,684,Hindalco Industries,Mumbai,26.1,1.1,27.1,17.7,Metals and mining
+27,746,Grasim Industries,Mumbai,15.3,0.7,47.0,19.8,Diversified
+28,764,HCL Technologies,Noida,13.3,1.9,12.0,43.4,Infotech
+29,810,ITC Limited,Kolkata,8.5,2.5,10.5,65.4,Consumer Goods
+30,827,Power Grid Corporation of India,Gurgaon,5.6,1.9,29.6,35.0,Utilities
+31,834,Tata Steel,Kolkata,28.3,−0.4,32.7,25.1,Iron and steel
+32,901,IndusInd Bank,Mumbai,6.7,1.1,61.8,13.2,Banking
+33,922,Indian Railway Finance Corporation,New Delhi,3.2,0.7,58.6,26.5,Financials
+34,926,Wipro,Bangalore,10.8,1.3,13.8,28.9,Infotech
+35,930,GAIL,New Delhi,16.1,1.2,15.0,16.1,Oil and gas
+36,947,Indian Bank,Chennai,7.8,1.0,95.4,8.7,Banking
+37,961,Vedanta Limited,Mumbai,17.4,0.5,22.9,19.7,Metals and mining
+38,1048,Adani Power,Ahmedabad,6.1,2.5,11.1,29.4,Energy
+39,1053,Bank of India,Mumbai,8.1,0.8,110.8,6.7,Banking
+40,1059,Adani Enterprises,Ahmedabad,12.7,0.4,19.3,41.9,Holding
+41,1161,Sun Pharmaceutical,Mumbai,5.7,1.1,9.6,44.1,Pharmaceuticals
+42,1212,IndiGo,Gurgaon,7.9,0.9,8.8,20.2,Airline
+43,1219,Adani Ports & SEZ,Ahmedabad,3.2,1.0,14.3,34.6,Shipping
+44,1259,IDBI Bank,Mumbai,3.7,0.7,43.7,10.9,Banking
+45,1264,Bajaj Auto,Pune,5.4,0.9,4.7,29.4,Automotive
+46,1281,Shriram Transport Finance,Chennai,4.4,0.9,29.8,10.7,Financials
+47,1384,Asian Paints,Mumbai,4.3,0.7,3.6,32.3,Chemicals
+48,1534,Tata Power,Mumbai,7.4,0.5,16.7,16.7,Utilities
+49,1562,Titan Company,Bangalore,6.2,0.0,2.3,1.1,Gems and jewellery
+50,1604,Jio Financial Services,Mumbai,0.2,0.2,17.4,27.2,Financials
+49,1568,Rajesh Exports,Bangalore,32.6,0.1,4.1,2.0,Gems and jewellery
+50,1617,DMart,Mumbai,6.1,0.3,2.5,36.6,Retail
+51,1693,Jindal Steel and Power,New Delhi,6.0,0.6,9.4,12.4,Iron and steel
+52,1697,LIC Housing Finance,Mumbai,3.3,0.4,34.9,4.3,Financials
+53,1699,Adani Green Energy,Ahmedabad,1.1,0.1,10.6,34.8,Renewable energy
+54,1704,Bajaj Holdings & Investment,Mumbai,0.2,0.9,7.8,11.0,Holding
+55,1760,General Insurance Corporation,Mumbai,5.7,0.9,20.9,7.2,Insurance
+56,1769,Yes Bank,Mumbai,4.0,0.2,48.7,8.3,Banking
+57,1805,Motherson Sumi Systems,Noida,11.4,0.2,9.4,10.5,Automotive
+58,1821,Bharat Electronics,Bangalore,2.2,0.4,4.4,21.8,Aerospace and defense
+59,1840,Central Bank of India,Mumbai,4.3,0.3,53.7,6.4,Banking
+60,1842,Bank of Maharashtra,Pune,2.8,0.5,36.8,5.5,Banking
+61,1848,Indus Towers,Gurgaon,3.5,0.7,6.7,11.1,Telecommunication
+62,1853,Steel Authority of India,New Delhi,12.9,0.4,15.6,8.3,Iron and steel
+63,1869,Federal Bank,Kochi,3.2,0.5,38.1,4.8,Banking
+64,1873,DLF,Gurgaon,0.8,0.3,7.2,25.2,Real estate
+65,1895,Dr. Reddy's Laboratories,Hyderabad,3.4,0.7,4.6,11.6,Pharmaceuticals
+66,1908,Varun Beverages,Gurgaon,2.0,0.3,1.8,23.6,Beverages
+67,1949,CIFCL,Chennai,2.3,0.4,18.8,13.0,Financials
+68,1957,NMDC,Hyderabad,2.5,0.8,3.9,9.7,Mining
+69,1980,ABB India,Bangalore,1.3,0.2,1.3,21.3,Capital goods
